@@ -7,8 +7,7 @@
 ---
 | Responsibilities | Analyst |
 | :--------------: | :-----: |
-| Presentation Files | |
-| HTML Formatting | Arturo |
+| Presentation | |
 | Makefile | |
 | Introduction | |
 | Conclusion | |
