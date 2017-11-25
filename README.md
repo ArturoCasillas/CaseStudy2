@@ -1,3 +1,4 @@
+
 ***
 ## Case Study 2 - Beer Research
 
@@ -20,6 +21,7 @@
 ### Folder Structure
 ---
 This repo contains the following folders:
+
 * 
 *
 *
